@@ -1,0 +1,5 @@
+{
+  "frontend": ["React", "TypeScript", "Tailwind","Html5","Css3"],
+  "backend": ["Node.js", "Supabase"],
+  "tools": ["Git", "Vite", "VS Code"]
+}

@@ -26,5 +26,7 @@
     "CSS",
     "Three.js",
     "Spring React"
-  ]
+  ],
+  "hero_image_link":"https://images.pexels.com/photos/36021843/pexels-photo-36021843.png",
+  "gallery_links":["https://images.pexels.com/photos/36034294/pexels-photo-36034294.png","https://images.pexels.com/photos/36034293/pexels-photo-36034293.png"]
 }
